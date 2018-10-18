@@ -7,7 +7,9 @@ description: >-
 
 # What is BloomBus?
 
-## History of BloomBus
+## History
+
+![](.gitbook/assets/bloombus-logo%20%281%29.svg)
 
 BloomBus began as a student project in 2015 through the Bloomsburg University ACM student chapter with a student, Dan Pany, who had the idea for the hardware that the tracking system would be based upon. He envisioned connecting an Adafruit GPS module to an Arduino microcontroller, in addition to an XBee radio transmitter, and using the 3 in tandem to receive GPS data, parse GPS data, and transmit GPS data \(respectively\). This system would also involve an XBee radio receiver connected over a USB connector to a server that would receive the GPS data, then upload it in a particular format onto a real-time database \(Google's Firebase\).
 
