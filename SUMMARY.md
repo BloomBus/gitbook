@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is BloomBus?](README.md)
+* [Trello](trello.md)
 * [Code Repositories & Deployment](code-repositories-and-deployment.md)
 
 ## BloomBus-Client
