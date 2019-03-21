@@ -4,9 +4,12 @@ description: Current code repository usage & deployment information.
 
 # Code Repositories & Deployment
 
+## Code Repositories
+
 All 3 of the project's code repos are on GitHub under the [BloomBus](https://github.com/BloomBus) organization.
 
-* [BloomBus/BloomBus-Tracker](https://github.com/BloomBus/BloomBus-Tracker)
+* [BloomBus/BloomBus-Tracker-Android](https://github.com/BloomBus/BloomBus-Tracker-Android)
+* [BloomBus/BloomBus-Tracker](https://github.com/BloomBus/BloomBus-Tracker) **\(deprecated\)**
 * [BloomBus/BloomBus-Client](https://github.com/BloomBus/BloomBus-Client)
 * [BloomBus/BloomBus-Server](https://github.com/BloomBus/BloomBus-Server)
 * [BloomBus/gitbook](https://github.com/BloomBus/gitbook) — the repository for this GitBook
@@ -15,7 +18,9 @@ For more information about any of these repos, visit their respective pages with
 
 At the current moment,  BloomBus-Client and BloomBus-Tracker are deployed to Heroku at [https://bloombus.herokuapp.com](https://bloombus-tracker.herokuapp.com) and [https://bloombus-tracker.herokuapp.com](https://bloombus-tracker.herokuapp.com).
 
-## What's Heroku?
+## Deployment
+
+#### What's Heroku?
 
 Heroku is a "cloud application platform". In short, it provides a CLI tool to add a git remote to your project, and whenever new changes are pushed to that remote, it will analyze the project, try and determine a "buildpack" to run to build the project, and stand it up on one of Heroku's servers.
 
