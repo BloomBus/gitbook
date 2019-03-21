@@ -19,3 +19,7 @@
 
 * [Architecture](bloombus-server-1/architecture.md)
 
+## Future Plans
+
+* [Cloud → Self-hosted](future-plans/cloud-self-hosted.md)
+
