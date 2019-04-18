@@ -4,6 +4,7 @@
 * [Trello](trello.md)
 * [Code Repositories & Deployment](code-repositories-and-deployment.md)
 * [Publishing](publishing.md)
+* [Editing Geospatial Features](editing-geospatial-features.md)
 
 ## BloomBus-Client
 
