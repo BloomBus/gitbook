@@ -22,6 +22,7 @@
 * [Architecture](bloombus-server-1/architecture.md)
 * [REST API](bloombus-server-1/rest-api.md)
 * [Developing Locally](bloombus-server-1/developing-locally.md)
+* [Authentication](bloombus-server-1/authentication.md)
 
 ## Future Plans
 
