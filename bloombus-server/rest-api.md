@@ -18,8 +18,7 @@ Retrieves the current state of the GeoJSON representing the geometry of shuttle 
 Stops GeoJSON successfully retrieved.
 {% endapi-method-response-example-description %}
 
-{% code-tabs %}
-{% code-tabs-item title="stops-2019-05-26.geojson" %}
+{% code title="stops-2019-05-26.geojson" %}
 ```javascript
 {
   "type": "FeatureCollection",
@@ -42,8 +41,7 @@ Stops GeoJSON successfully retrieved.
   ]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}
@@ -79,8 +77,7 @@ Retrieves the current state of the GeoJSON representing the geometry of shuttle 
 Loops GeoJSON successfully retrieved.
 {% endapi-method-response-example-description %}
 
-{% code-tabs %}
-{% code-tabs-item title="loops-2019-05-26.geojson" %}
+{% code title="loops-2019-05-26.geojson" %}
 ```
 {
   "crs": {
@@ -133,8 +130,7 @@ Loops GeoJSON successfully retrieved.
 }
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}

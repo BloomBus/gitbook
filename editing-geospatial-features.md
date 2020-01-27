@@ -2,7 +2,7 @@
 
 The spatial data for the BloomBus project \(the collections of points, lines and polygons that represent shuttle loops, shuttle stops, etc\) are stored in the Firebase Realtime Database as [GeoJSON](https://geojson.org/), the most popular interchange format for geospatial data, especially over the web. The shuttle loops are kept as a GeoJSON FeatureCollection at the `/shuttles` ref, and under the `/stops` ref there is a collection of keys that correspond to a shuttle stop with it's value being a GeoJSON Feature.
 
-To download the GeoJSON for the shuttle stops or the shuttle loops, go to the admin dashboard served by [BloomBus-Server](bloombus-server-1/architecture.md), go to the **Edit Geometry** task, and click the corresponding download button.
+To download the GeoJSON for the shuttle stops or the shuttle loops, go to the admin dashboard served by [BloomBus-Server](bloombus-server/architecture.md), go to the **Edit Geometry** task, and click the corresponding download button.
 
 ![](.gitbook/assets/edit-geometry-tut-1.png)
 
